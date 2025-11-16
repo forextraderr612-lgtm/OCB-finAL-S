@@ -52,9 +52,11 @@ export default function Footer() {
                 <Instagram className="w-5 h-5 text-[#D4AF37]" strokeWidth={1} />
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/ocbevents/"
                 className="p-3 border border-[#D4AF37]/30 hover:border-[#D4AF37] hover:bg-[#D4AF37]/10 transition-all duration-300"
                 aria-label="Facebook"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <Facebook className="w-5 h-5 text-[#D4AF37]" strokeWidth={1} />
               </a>
