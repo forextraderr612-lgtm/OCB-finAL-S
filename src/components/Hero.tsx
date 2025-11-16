@@ -25,7 +25,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl md:text-2xl text-[#E8DCC4] mb-12 max-w-3xl mx-auto leading-relaxed font-light tracking-wide">
-            Mumus Events curates old-money inspired gatherings defined by elegance, intention, and unforgettable detail.
+            OCB Events curates old-money inspired gatherings defined by elegance, intention, and unforgettable detail.
           </p>
 
           <button className="group relative px-12 py-5 bg-gradient-to-r from-[#D4AF37] to-[#C5A028] text-[#1a1a1a] text-lg tracking-widest uppercase font-light overflow-hidden transition-all duration-500 hover:shadow-2xl hover:shadow-[#D4AF37]/50">
